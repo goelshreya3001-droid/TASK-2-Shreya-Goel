@@ -263,35 +263,6 @@ You can add screenshots here after deploying or running the project:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-To contribute:
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push to GitHub
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is created for educational and learning purposes.
@@ -302,7 +273,7 @@ Feel free to use and modify it for personal or academic projects.
 
 ## 👨‍💻 Author
 
-**Nitin Goel**
+**Shreya Goel**
 
 Frontend Web Development Project
 
