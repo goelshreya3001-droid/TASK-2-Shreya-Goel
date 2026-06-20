@@ -253,9 +253,13 @@ Possible enhancements include:
 
 You can add screenshots here after deploying or running the project:
 
-```markdown
-![Homepage Screenshot](images/screenshot.png)
-```
+
+<img src="image.png"/>
+<img src="ss2.jpeg"/>
+<img src="ss3.jpeg"/>
+<img src="ss4.jpeg"/>
+<img src="ss5.jpeg"/>
+
 
 ---
 
